@@ -8,7 +8,7 @@ if __name__ == '__main__' :
     speak("so how u are doing yuvika vatsa5")
     speak("this calculator is designed by Mr saket suman in python programming")
     print("enter first no")
-    speak("enter first number")
+    speak("enter first number of choice")
     a=int(input())
     print("enter second number")
     speak("enter second number")
